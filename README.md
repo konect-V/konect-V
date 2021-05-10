@@ -6,11 +6,11 @@
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keep-Konect&theme=monokai">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keep-Konect&theme=monokai" height="200px">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Keep-Konect&show_icons=true&theme=monokai">
+<img src="https://github-readme-stats.vercel.app/api?username=Keep-Konect&show_icons=true&theme=monokai" height="200px">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keep-Konect&theme=monokai">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keep-Konect&theme=monokai" height="200px">
 
 </p>
 
