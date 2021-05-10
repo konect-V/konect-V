@@ -1,4 +1,4 @@
-[![Header](https://github.com/Keep-Konect/Keep-Konect/blob/master/header.png "Header")](https://Keep-Konect.github.io/)
+[![Header](https://github.com/Keep-Konect/Keep-Konect/blob/master/logoGradient.png "Header")](https://Keep-Konect.github.io/)
 
 ### Hi there 👋
 
