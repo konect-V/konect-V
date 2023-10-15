@@ -1,16 +1,23 @@
-<p align="center">
-	<img src="https://github.com/Keep-Konect/Keep-Konect/blob/main/kot%20(2).png">
-</p>
+# Hi there, I'm Konect-V! 👋
 
-### Hi there 👋
+## About Me
+I'm a passionate developer with a strong background in programming languages like C, HTML, CSS, PHP, and Bash. I enjoy exploring new technologies and solving complex problems through coding.
 
-<p align="center">
+- 💼 Software Developer
+- 🌐 Tech Enthusiast
+- 🖥️ Open-Source Enthusiast
+- 🌱 Always Learning
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keep-Konect&theme=monokai" height="200px">
+## Skills
+- **Languages**: C, HTML, CSS, PHP, Bash
 
-<img src="https://github-readme-stats.vercel.app/api?username=Keep-Konect&show_icons=true&theme=monokai" height="200px">
+## My Biggest Project
+One of my most significant achievements is the creation of an operating system from scratch, known as "Kot." It's a project I'm immensely proud of, and it demonstrates my deep understanding of system-level programming.
+- [Kot Operating System](https://github.com/kot-org/Kot): An operating system built entirely from scratch.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keep-Konect&theme=monokai" height="200px">
+## Contact
+- 🌐 [Portfolio](https://konect-V.github.io)
 
-</p>
+Feel free to explore my projects and reach out if you have any questions or want to collaborate on an exciting project.
 
+Thanks for visiting my GitHub profile!
