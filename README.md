@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate developer with a strong background in programming languages like C, HTML, CSS, PHP, and Bash. I enjoy exploring new technologies and solving complex problems through coding.
 
-- 💼 Software Developer
+- 💼 Student
 - 🌐 Tech Enthusiast
 - 🖥️ Open-Source Enthusiast
 - 🌱 Always Learning
