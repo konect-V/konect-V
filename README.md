@@ -12,7 +12,7 @@ I'm a passionate developer with a strong background in programming languages lik
 - **Languages**: C, HTML, CSS, PHP, Bash
 
 ## My Biggest Project
-One of my most significant achievements is the creation of an operating system from scratch, known as "Kot." It's a project I'm immensely proud of, and it demonstrates my deep understanding of system-level programming.
+One of my most significant achievements is the creation of an operating system from scratch, known as Kot. It's a project I'm immensely proud of, and it demonstrates my deep understanding of system-level programming.
 - [Kot Operating System](https://github.com/kot-org/Kot): An operating system built entirely from scratch.
 
 ## Contact
