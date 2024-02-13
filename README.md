@@ -21,3 +21,9 @@ One of my most significant achievements is the creation of an operating system f
 Feel free to explore my projects and reach out if you have any questions or want to collaborate on an exciting project.
 
 Thanks for visiting my GitHub profile!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
