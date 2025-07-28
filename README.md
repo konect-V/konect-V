@@ -11,9 +11,20 @@ I'm a passionate developer with a strong background in programming languages lik
 ## Skills
 - **Languages**: C, HTML, CSS, PHP, Bash
 
-## My Biggest Project
+## 🚀 Major Projects
+### 🧠 Kot Operating System
 One of my most significant achievements is the creation of an operating system from scratch, known as Kot. It's a project I'm immensely proud of, and it demonstrates my deep understanding of system-level programming.
-- [Kot Operating System](https://github.com/kot-org/Kot): An operating system built entirely from scratch.
+[Kot Operating System](https://github.com/kot-org/Kot): An operating system built entirely from scratch.
+
+### 🛠️ MiniFab — All-in-One Multifunction Machine
+MiniFab is a highly versatile 4-in-1 digital fabrication machine, capable of:
+- 4-axis precision CNC milling
+- Pen plotting
+- 3D printing (filament-based)
+- 3D printing (pellet-based)
+It runs on a heavily customized version of Klipper, tailored to meet our unique functional requirements.
+One of the standout features is a closed-loop XY motion system, enabling unprecedented accuracy at high speeds, making it ideal for advanced prototyping and precision tasks.
+[MiniFab](https://github.com/konect-V/MiniFab)
 
 ## Contact
 - 🌐 [Portfolio](https://konect-V.github.io)
