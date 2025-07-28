@@ -22,6 +22,7 @@ MiniFab is a highly versatile 4-in-1 digital fabrication machine, capable of:
 - Pen plotting
 - 3D printing (filament-based)
 - 3D printing (pellet-based)
+
 It runs on a heavily customized version of Klipper, tailored to meet our unique functional requirements.
 One of the standout features is a closed-loop XY motion system, enabling unprecedented accuracy at high speeds, making it ideal for advanced prototyping and precision tasks.
 [MiniFab](https://github.com/konect-V/MiniFab)
